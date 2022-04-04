@@ -55,6 +55,11 @@ p {
 .--m-top {
     margin-top: 10px;
 }
+
+.--m-l-500 {
+  margin-left: 300px;
+}
+
 #image {
     display:none;
  }
